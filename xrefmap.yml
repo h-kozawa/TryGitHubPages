@@ -1,0 +1,28 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: ConsoleApp
+  name: ConsoleApp
+  href: api/ConsoleApp.html
+  commentId: N:ConsoleApp
+  fullName: ConsoleApp
+  nameWithType: ConsoleApp
+- uid: ConsoleApp.MyClass
+  name: MyClass
+  href: api/ConsoleApp.MyClass.html
+  commentId: T:ConsoleApp.MyClass
+  fullName: ConsoleApp.MyClass
+  nameWithType: MyClass
+- uid: ConsoleApp.MyClass.Hello
+  name: Hello()
+  href: api/ConsoleApp.MyClass.html#ConsoleApp_MyClass_Hello
+  commentId: M:ConsoleApp.MyClass.Hello
+  fullName: ConsoleApp.MyClass.Hello()
+  nameWithType: MyClass.Hello()
+- uid: ConsoleApp.MyClass.Hello*
+  name: Hello
+  href: api/ConsoleApp.MyClass.html#ConsoleApp_MyClass_Hello_
+  commentId: Overload:ConsoleApp.MyClass.Hello
+  isSpec: "True"
+  fullName: ConsoleApp.MyClass.Hello
+  nameWithType: MyClass.Hello
